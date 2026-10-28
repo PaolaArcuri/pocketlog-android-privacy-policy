@@ -1,1 +1,1 @@
-# pocketlog-android-privacy-policy
+# Pocketlog privacy policy
